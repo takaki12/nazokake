@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.1
+pytorch-lightning==1.6.4
+requests==2.28.0
+sentencepiece==0.1.96
+torch==1.11.0
+tqdm==4.64.0
+transformers==4.20.0
